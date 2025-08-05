@@ -61,8 +61,3 @@ for nome, valor in metricas.items():
 pip install jupyter notebook
 ```
 
----
-
-## 👨‍💻 Autor
-
-Rafael PG — [@shakarpg](https://github.com/shakarpg)
